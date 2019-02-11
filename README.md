@@ -47,6 +47,16 @@ gcc cilent.c -o client
 ./client
 ```
 
+### Java
+
+```
+javac Server.java
+java Server
+
+javac Client.java
+java Client
+```
+
 ### Reference
 - [Socket Programming in Python - GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-python/)
 - [Socket Programming in PHP - Code Project](https://www.codeproject.com/Tips/418814/Socket-Programming-in-PHP)
